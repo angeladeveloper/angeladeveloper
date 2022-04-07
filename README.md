@@ -1,3 +1,6 @@
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fangeladeveloper)
+
 - 👋 Hi, I’m Angela W
 - 👀 I’m interested in everything to do with coding and design. I would love to learn about new projects that people are working on, and discover new technologies. I would love to make connections with anyone in the field to grow my network. 
 - 🌱 I’m currently learning the basics. I started out teaching myself, but I recently enrolled in a UW's bootcamap. I will end up learning just about everything I need to start making full stack applications. 
