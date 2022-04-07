@@ -5,5 +5,5 @@
 - 📫 How to reach me:
 - Linkedin - https://www.linkedin.com/in/angela-wright-8b60a1227/
 - email - angelag6617@gmail.com
-- Twitter - @angeladeveloper
+- Twitter - https://twitter.com/angeladeveloper
 
