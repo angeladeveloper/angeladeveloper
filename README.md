@@ -9,6 +9,6 @@
 - 💞️ I’m looking to collaborate on ANYHING! I really want exposure. I know that I love the fundamentals of coding and problem solving, but I am still not sure where I will find my stride. I really want to get my hands dirty with as many things as I can, so when the time comes, I can make the best descions and I'll have TONS of experience under my belt by then, making me an even better developer. 
 - 📫 How to reach me:
 - Linkedin - https://www.linkedin.com/in/angela-wright-8b60a1227/
-- email - angelag6617@gmail.com
+- Email - angelag6617@gmail.com
 - Twitter - https://twitter.com/angeladeveloper
 
