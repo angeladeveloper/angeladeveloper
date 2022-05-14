@@ -1,7 +1,3 @@
-![Angela Wright] (https://github.com/angeladeveloper/angeladeveloper/blob/main/Angela_Wright_✌%EF%B8%8F☺%EF%B8%8F.png)
-
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fangeladeveloper)
 
 - 👋 Hi, I’m Angela W
 - 👀 I’m interested in everything to do with coding and design. I would love to learn about new projects that people are working on, and discover new technologies. I would love to make connections with anyone in the field to grow my network. 
